@@ -7,30 +7,30 @@
 <body>
 
     <header>
-        <h1>John Doe</h1>
-        <p>Email: john.doe@example.com | Phone: (123) 456-7890</p>
+        <h1>Ian Garcia</h1>
+        <p>Email: ianrenedg1@gmail.com | Phone: (424) 351-5157</p>
     </header>
 
     <hr>
 
    
         <h2>Education</h2>
-        <p>Bachelor of Science in Computer Science, XYZ University, Graduation Year</p>
+        <p>High School Diploma, R.K. Lloyde High,2017</p>
   
 
         <h2>Experience</h2>
        
-            <h3>Software Engineer, ABC Company</h3>
-            <p>June 2020 - Present</p>
+            <h3>Sales and Service representative, First Citizens bank</h3>
+            <p>October 2022 - January 2024</p>
             <p>Responsibilities:</p>
             <ul>
-                <li>Developed and maintained web applications using HTML, CSS, and JavaScript.</li>
-                <li>Collaborated with cross-functional teams to deliver projects on time.</li>
+                <li>Processed and assisted with financial transactions with 100% accuracy.</li>
+                <li>Collaborated with cross-functional teams to maximize sales and better assist customers to get the most out of their banking experience.</li>
             </ul>
         </div>
     
-            <h3>Intern, XYZ Corporation</h3>
-            <p>May 2019 - August 2019</p>
+            <h3>Intern, Mindera</h3>
+            <p>May 2024 - July 2024</p>
             <p>Responsibilities:</p>
             <ul>
                 <li>Assisted senior developers in software development tasks.</li>
