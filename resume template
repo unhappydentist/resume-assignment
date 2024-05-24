@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<head>
+    
+    <title>Resume</title>
+   
+</head>
+<body>
+
+    <header>
+        <h1>John Doe</h1>
+        <p>Email: john.doe@example.com | Phone: (123) 456-7890</p>
+    </header>
+
+    <hr>
+
+   
+        <h2>Education</h2>
+        <p>Bachelor of Science in Computer Science, XYZ University, Graduation Year</p>
+  
+
+        <h2>Experience</h2>
+       
+            <h3>Software Engineer, ABC Company</h3>
+            <p>June 2020 - Present</p>
+            <p>Responsibilities:</p>
+            <ul>
+                <li>Developed and maintained web applications using HTML, CSS, and JavaScript.</li>
+                <li>Collaborated with cross-functional teams to deliver projects on time.</li>
+            </ul>
+        </div>
+    
+            <h3>Intern, XYZ Corporation</h3>
+            <p>May 2019 - August 2019</p>
+            <p>Responsibilities:</p>
+            <ul>
+                <li>Assisted senior developers in software development tasks.</li>
+                <li>Tested and debugged code to ensure proper functionality.</li>
+            </ul>
+        </div>
