@@ -1,4 +1,13 @@
 <!DOCTYPE html>
+<style>
+body {background-color: teal;}
+h1   {color: coral;}
+p    {color: mediumspringgreen;}
+a.highlight:hover {
+  color: #ff0000;
+  font-size: 16px;
+} 
+</style>
 <head>
     
     <title>Resume</title>
@@ -8,31 +17,72 @@
 
     <header>
         <h1>Ian Garcia</h1>
-        <p>Email: ianrenedg1@gmail.com | Phone: (424) 351-5157</p>
+        <p><a class="highlight" href=Email:"ianrenedg1@gmail.com"| Phone: (424) 351-5157</a></p>
     </header>
 
     <hr>
 
    
         <h2>Education</h2>
-        <p>High School Diploma, R.K. Lloyde High,2017</p>
+        <p>Diploma, R.K. Lloyde High School, 2017</p>
+
+        <h2>Proffesional Summary</h2>
+        <p>Highly motivated associate with extensive customer service and sales experience. Performance-driven employee proficient in creating a safe and enjoyable work environment and helping with promotions and development.</p>
   
 
         <h2>Experience</h2>
        
-            <h3>Sales and Service representative, First Citizens bank</h3>
+        <h3>Casino Banker, Faros Unlimited, Inc</h3>
+        	<p>March 2024 - Present Day</p>
+			<p>Responsibilities:</p>
+			<li>Participtae and monitor table action on casino floor to ensure accuracy.</li>
+			<li>Watch and correct irreguleraties on tables.</li>
+			<li>Administer the handling of casino chips and pay-outs to winning customers, and confirms that all losing bets/ wagers are collected properly by the dealer.</li>
+			<h3>
+			 </ul>
+			</div>
+
+
+    	<h3>Sales and Service representative, First Citizens bank</h3>
             <p>October 2022 - January 2024</p>
             <p>Responsibilities:</p>
-            <ul>
-                <li>Processed and assisted with financial transactions with 100% accuracy.</li>
-                <li>Collaborated with cross-functional teams to maximize sales and better assist customers to get the most out of their banking experience.</li>
-            </ul>
+            
+            <li>Processed and assisted with financial transactions.</li>
+            <li>Collaborated with cross-functional team members to deepen banking relationships and better assist customers to ensure the most out of their banking experience.</li>
+            <li>Reviewed and and submitted requests or changes to customer accounts</li>
+            <li>Assisted in opening customer accounts, printing and reviewing balance fluctuation sheets as well as NSF reports.</li>
+				
+        <h3>
+            
         </div>
-    
-            <h3>Intern, Mindera</h3>
-            <p>May 2024 - July 2024</p>
-            <p>Responsibilities:</p>
-            <ul>
+        <h3>Public Safety Officer, AGS Protect</h3>
+        <p>February 2022 - October 2022</p>
+        <p>Responsibilities:</p>
+        	<li>Patrolled business district daily connecting with business owners and staff to strengthen lines of communication.</li>
+        	<li>Responded to and adressed hazards reported by dispatchers or by officers during patrol.</li>
+        	<li>Interacted and connected with homeless population providing outreach services and resources.</li>
+        	<li>Acted as an ambassador and assisted general public with service requests and resources within business district.</li>
+        	<li>Documented reports on company devices daily.</li>
+
+        <h3>Intern, Mindera</h3>
+        <p>May 2024 - July 2024</p>
+        <p>Responsibilities:</p>
+        <ul>
+            <li>Assisted senior developers in software development tasks.</li>
+            <li>Created potfolio.</li>
+        </ul>
+    </div>
+   
+
+        <h2>Skills</h2>
+        <p>HTML, CSS, JavaScript, SQL</p>
+	</hr>
+
+  
+</div>
+
+</body>
+</html>
                 <li>Assisted senior developers in software development tasks.</li>
                 <li>Tested and debugged code to ensure proper functionality.</li>
             </ul>
